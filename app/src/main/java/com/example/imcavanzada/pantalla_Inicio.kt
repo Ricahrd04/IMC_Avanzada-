@@ -28,7 +28,7 @@ fun Pantalla_Inicio(
         modifier = Modifier.fillMaxSize().padding(16.dp)
     ){
         Text(
-            text = "Calculadora IMC"
+            text = "Calculadora de IMC"
         )
         Spacer(
             modifier =Modifier.height(16.dp)
