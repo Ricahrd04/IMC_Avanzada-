@@ -30,6 +30,9 @@ fun Pantalla_Inicio(
         Text(
             text = "Calculadora de IMC"
         )
+        Text(
+            text = "Ingrese sus datos para calcular el IMC"
+        )
         Spacer(
             modifier =Modifier.height(16.dp)
         )
