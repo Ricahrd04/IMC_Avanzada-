@@ -19,7 +19,7 @@ fun PantallaResultado(
         when{
             imc < 18.5 -> "Peso Bajo"
             imc < 25 -> "Peso Normal"
-            imc < 30 -> "Sobrepeso"
+            imc < 30 -> "Usted tiene sobrepeso, se recomienda consulta médica."
 
             else -> "Obeso"
          }
