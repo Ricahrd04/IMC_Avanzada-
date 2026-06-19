@@ -69,6 +69,10 @@ fun Pantalla_Inicio(
                 Text("Altura en metros")
             }
         )
+        Text (
+            text = "Por favor ingresar el peso con un punto, no con la coma",
+            olor = Color.Black
+        )
         Spacer(
             modifier = Modifier.height(16.dp)
         )
