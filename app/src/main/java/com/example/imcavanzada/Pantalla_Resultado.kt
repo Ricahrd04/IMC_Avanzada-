@@ -42,7 +42,7 @@ fun PantallaResultado(
             modifier = Modifier.height(16.dp)
         )
         Text(
-            text = "Tu resultado es: "
+            text = "Tu resultado de IMC es: "
         )
         Spacer(
             modifier = Modifier.height(16.dp)
